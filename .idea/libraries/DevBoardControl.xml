@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="DevBoardControl">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/DevBoardControl.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="AIUIServiceKit">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/AIUIServiceKit.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

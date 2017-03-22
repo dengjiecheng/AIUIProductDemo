@@ -1,0 +1,135 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\djc\Desktop\sample\AIUIProductDemo\app\src\main\AndroidManifest.xml:2:1-55:12
+	package
+		ADDED from C:\Users\djc\Desktop\sample\AIUIProductDemo\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from C:\Users\djc\Desktop\sample\AIUIProductDemo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\djc\Desktop\sample\AIUIProductDemo\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\djc\Desktop\sample\AIUIProductDemo\app\src\main\AndroidManifest.xml:5:5-31
+		INJECTED from C:\Users\djc\Desktop\sample\AIUIProductDemo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\djc\Desktop\sample\AIUIProductDemo\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\djc\Desktop\sample\AIUIProductDemo\app\src\main\AndroidManifest.xml:4:5-29
+		INJECTED from C:\Users\djc\Desktop\sample\AIUIProductDemo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\djc\Desktop\sample\AIUIProductDemo\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\djc\Desktop\sample\AIUIProductDemo\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Users\djc\Desktop\sample\AIUIProductDemo\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\djc\.android\build-cache\ccdb05456ae516f56b9af1b3751dcf7d8ae760f1\output\AndroidManifest.xml:5:5-7:41
+	android:targetSdkVersion
+		ADDED from C:\Users\djc\Desktop\sample\AIUIProductDemo\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\Users\djc\Desktop\sample\AIUIProductDemo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\djc\Desktop\sample\AIUIProductDemo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\djc\Desktop\sample\AIUIProductDemo\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from C:\Users\djc\Desktop\sample\AIUIProductDemo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\djc\Desktop\sample\AIUIProductDemo\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\djc\Desktop\sample\AIUIProductDemo\app\src\main\AndroidManifest.xml:11:5-71
+	android:name
+		ADDED from C:\Users\djc\Desktop\sample\AIUIProductDemo\app\src\main\AndroidManifest.xml:11:22-68
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\djc\Desktop\sample\AIUIProductDemo\app\src\main\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from C:\Users\djc\Desktop\sample\AIUIProductDemo\app\src\main\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\djc\Desktop\sample\AIUIProductDemo\app\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from C:\Users\djc\Desktop\sample\AIUIProductDemo\app\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\djc\Desktop\sample\AIUIProductDemo\app\src\main\AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from C:\Users\djc\Desktop\sample\AIUIProductDemo\app\src\main\AndroidManifest.xml:14:22-73
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from C:\Users\djc\Desktop\sample\AIUIProductDemo\app\src\main\AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from C:\Users\djc\Desktop\sample\AIUIProductDemo\app\src\main\AndroidManifest.xml:15:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\djc\Desktop\sample\AIUIProductDemo\app\src\main\AndroidManifest.xml:16:5-75
+	android:name
+		ADDED from C:\Users\djc\Desktop\sample\AIUIProductDemo\app\src\main\AndroidManifest.xml:16:22-72
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\djc\Desktop\sample\AIUIProductDemo\app\src\main\AndroidManifest.xml:17:5-79
+	android:name
+		ADDED from C:\Users\djc\Desktop\sample\AIUIProductDemo\app\src\main\AndroidManifest.xml:17:22-76
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\djc\Desktop\sample\AIUIProductDemo\app\src\main\AndroidManifest.xml:18:5-72
+	android:name
+		ADDED from C:\Users\djc\Desktop\sample\AIUIProductDemo\app\src\main\AndroidManifest.xml:18:22-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\djc\Desktop\sample\AIUIProductDemo\app\src\main\AndroidManifest.xml:19:5-81
+	android:name
+		ADDED from C:\Users\djc\Desktop\sample\AIUIProductDemo\app\src\main\AndroidManifest.xml:19:22-78
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from C:\Users\djc\Desktop\sample\AIUIProductDemo\app\src\main\AndroidManifest.xml:20:5-73
+	android:name
+		ADDED from C:\Users\djc\Desktop\sample\AIUIProductDemo\app\src\main\AndroidManifest.xml:20:22-70
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\djc\Desktop\sample\AIUIProductDemo\app\src\main\AndroidManifest.xml:21:5-80
+	android:name
+		ADDED from C:\Users\djc\Desktop\sample\AIUIProductDemo\app\src\main\AndroidManifest.xml:21:22-77
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\djc\Desktop\sample\AIUIProductDemo\app\src\main\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from C:\Users\djc\Desktop\sample\AIUIProductDemo\app\src\main\AndroidManifest.xml:22:22-78
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\djc\Desktop\sample\AIUIProductDemo\app\src\main\AndroidManifest.xml:23:5-68
+	android:name
+		ADDED from C:\Users\djc\Desktop\sample\AIUIProductDemo\app\src\main\AndroidManifest.xml:23:22-65
+application
+ADDED from C:\Users\djc\Desktop\sample\AIUIProductDemo\app\src\main\AndroidManifest.xml:25:5-53:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\djc\.android\build-cache\ccdb05456ae516f56b9af1b3751dcf7d8ae760f1\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\djc\Desktop\sample\AIUIProductDemo\app\src\main\AndroidManifest.xml:29:9-41
+	android:hardwareAccelerated
+		ADDED from C:\Users\djc\Desktop\sample\AIUIProductDemo\app\src\main\AndroidManifest.xml:27:9-44
+	android:icon
+		ADDED from C:\Users\djc\Desktop\sample\AIUIProductDemo\app\src\main\AndroidManifest.xml:28:9-45
+	android:theme
+		ADDED from C:\Users\djc\Desktop\sample\AIUIProductDemo\app\src\main\AndroidManifest.xml:30:9-40
+	android:name
+		ADDED from C:\Users\djc\Desktop\sample\AIUIProductDemo\app\src\main\AndroidManifest.xml:26:9-67
+receiver#com.iflytek.aiuiproduct.receiver.NetworkStateReceiver
+ADDED from C:\Users\djc\Desktop\sample\AIUIProductDemo\app\src\main\AndroidManifest.xml:31:9-35:20
+	android:name
+		ADDED from C:\Users\djc\Desktop\sample\AIUIProductDemo\app\src\main\AndroidManifest.xml:31:19-87
+intent-filter#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from C:\Users\djc\Desktop\sample\AIUIProductDemo\app\src\main\AndroidManifest.xml:32:13-34:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from C:\Users\djc\Desktop\sample\AIUIProductDemo\app\src\main\AndroidManifest.xml:33:17-79
+	android:name
+		ADDED from C:\Users\djc\Desktop\sample\AIUIProductDemo\app\src\main\AndroidManifest.xml:33:25-76
+service#com.iflytek.aiuiproduct.ProductDemoService
+ADDED from C:\Users\djc\Desktop\sample\AIUIProductDemo\app\src\main\AndroidManifest.xml:37:9-41:19
+	android:name
+		ADDED from C:\Users\djc\Desktop\sample\AIUIProductDemo\app\src\main\AndroidManifest.xml:37:18-75
+intent-filter#com.iflytek.aiuiproduct.action.DemoService
+ADDED from C:\Users\djc\Desktop\sample\AIUIProductDemo\app\src\main\AndroidManifest.xml:38:13-40:29
+	android:priority
+		ADDED from C:\Users\djc\Desktop\sample\AIUIProductDemo\app\src\main\AndroidManifest.xml:38:28-51
+action#com.iflytek.aiuiproduct.action.DemoService
+ADDED from C:\Users\djc\Desktop\sample\AIUIProductDemo\app\src\main\AndroidManifest.xml:39:17-85
+	android:name
+		ADDED from C:\Users\djc\Desktop\sample\AIUIProductDemo\app\src\main\AndroidManifest.xml:39:25-82
+service#com.iflytek.aiuiproduct.player.service.MusicService
+ADDED from C:\Users\djc\Desktop\sample\AIUIProductDemo\app\src\main\AndroidManifest.xml:42:9-48:19
+	android:process
+		ADDED from C:\Users\djc\Desktop\sample\AIUIProductDemo\app\src\main\AndroidManifest.xml:44:13-43
+	android:name
+		ADDED from C:\Users\djc\Desktop\sample\AIUIProductDemo\app\src\main\AndroidManifest.xml:43:13-79
+intent-filter#com.iflytek.aiuiproduct.action.MusicService
+ADDED from C:\Users\djc\Desktop\sample\AIUIProductDemo\app\src\main\AndroidManifest.xml:45:13-47:29
+	android:priority
+		ADDED from C:\Users\djc\Desktop\sample\AIUIProductDemo\app\src\main\AndroidManifest.xml:45:28-51
+action#com.iflytek.aiuiproduct.action.MusicService
+ADDED from C:\Users\djc\Desktop\sample\AIUIProductDemo\app\src\main\AndroidManifest.xml:46:17-86
+	android:name
+		ADDED from C:\Users\djc\Desktop\sample\AIUIProductDemo\app\src\main\AndroidManifest.xml:46:25-83
+activity#com.iflytek.aiuiproduct.Main2Activity
+ADDED from C:\Users\djc\Desktop\sample\AIUIProductDemo\app\src\main\AndroidManifest.xml:50:9-52:69
+	android:label
+		ADDED from C:\Users\djc\Desktop\sample\AIUIProductDemo\app\src\main\AndroidManifest.xml:52:13-57
+	android:name
+		ADDED from C:\Users\djc\Desktop\sample\AIUIProductDemo\app\src\main\AndroidManifest.xml:51:13-65
